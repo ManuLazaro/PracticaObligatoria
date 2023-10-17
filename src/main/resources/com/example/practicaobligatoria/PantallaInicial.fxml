@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="CENTER" prefHeight="409.0" prefWidth="392.0" spacing="20.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.practicaobligatoria.InicioController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+   <children>
+      <AnchorPane prefHeight="550.0" prefWidth="555.0">
+         <children>
+            <Button fx:id="btnEntrar" layoutX="70.0" layoutY="299.0" mnemonicParsing="false" onAction="#entrarConCuenta" text="Entrar">
+               <font>
+                  <Font name="System Bold" size="11.0" />
+               </font></Button>
+            <Button fx:id="btnRegistrarte" layoutX="216.0" layoutY="299.0" mnemonicParsing="false" onAction="#registrarte" text="Registrarte">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font></Button>
+            <TextField fx:id="txtUsuario" layoutX="157.0" layoutY="149.0" />
+            <TextField fx:id="txtContraseña" layoutX="157.0" layoutY="213.0" />
+            <Label layoutX="80.0" layoutY="153.0" text="Usuario:">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font></Label>
+            <Label layoutX="62.0" layoutY="217.0" text="Contraseña:" textFill="#101010">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font></Label>
+            <Label layoutX="73.0" layoutY="46.0" text="BIENVENIDO">
+               <font>
+                  <Font name="Impact" size="38.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+   </children>
+</VBox>

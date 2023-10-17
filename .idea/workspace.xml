@@ -1,14 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="52f0370b-7b16-4bfa-ac24-97239b347dc7" name="Changes" comment="" />
+    <list default="true" id="52f0370b-7b16-4bfa-ac24-97239b347dc7" name="Changes" comment="Ningun cambio">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practicaobligatoria/CambiarClave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practicaobligatoria/CambiarNombreUsuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practicaobligatoria/ConfirmacionBorrarCuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practicaobligatoria/DBManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practicaobligatoria/GestionUsuarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practicaobligatoria/InicioApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practicaobligatoria/MenuPrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practicaobligatoria/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practicaobligatoria/util/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/practicaobligatoria/CambiarClave.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/practicaobligatoria/CambiarNombreUsuario.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/practicaobligatoria/ConfirmacionBorrarCuenta.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/practicaobligatoria/GestionUsuarios.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/practicaobligatoria/MenuPrincipal.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/practicaobligatoria/PantallaInicial.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/configuration/database.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/practicaobligatoria/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/practicaobligatoria/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/practicaobligatoria/InicioController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/practicaobligatoria/hello-view.fxml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2Wsfq9n6YK277IHXBPeoLPEPrXr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,10 +65,51 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/DAM/IdeaProjects/PracticaObligatoria/src/main/resources/com/example/practicaobligatoria",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.JavaFX",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DAM\IdeaProjects\PracticaObligatoria\src\main\resources\com\example\practicaobligatoria" />
+      <recent name="C:\Users\DAM\IdeaProjects\PracticaObligatoria\src\main\java\com\example\practicaobligatoria" />
+      <recent name="C:\Users\DAM\IdeaProjects\PracticaObligatoria\src\main\java\com\example\practicaobligatoria\util" />
+      <recent name="C:\Users\DAM\IdeaProjects\PracticaObligatoria\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.practicaobligatoria" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.practicaobligatoria" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="InicioApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.practicaobligatoria.InicioApplication" />
+      <module name="PracticaObligatoria" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.practicaobligatoria.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InicioApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,11 +118,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697526399502</updated>
-      <workItem from="1697526400475" duration="4000" />
+      <workItem from="1697526400475" duration="7475000" />
     </task>
+    <task id="LOCAL-00001" summary="Ningun cambio">
+      <created>1697526575554</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697526575554</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ningun cambio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ningun cambio" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
